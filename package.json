@@ -1,0 +1,19 @@
+{
+  "name": "@djmousefarm/dev",
+  "version": "1.0.0",
+  "description": "node-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm help json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/djmousefarm/fccnpm.git"
+  },
+  "author": "Bob Sheridan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/djmousefarm/fccnpm/issues"
+  },
+  "homepage": "https://github.com/djmousefarm/fccnpm#readme"
+}
