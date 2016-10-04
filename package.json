@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/djmousefarm/fccnpm/issues"
   },
-  "homepage": "https://github.com/djmousefarm/fccnpm#readme"
+  "homepage": "https://github.com/djmousefarm/fccnpm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
